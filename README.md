@@ -1,2 +1,2 @@
-# control_ratio_cells
-Simulations for bioRxiv paper - Control of density and composition in an engineered two-member bacterial community
+# Control of density and composition in an engineered two-member bacterial community
+Simulations for the bioRxiv preprint.
